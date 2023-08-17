@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtybabyfirst&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtybabyfirst&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naughtybabyfirst&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naughtybabyfirst&hide=javascript,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
